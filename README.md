@@ -90,7 +90,11 @@ Dalius Krinickas komentaru pabrėžia jog gerbia visas žmogaus teises, o Gedvil
 
 ![klausimai-pagal-nesutarima-Laisvės-partija.png](notebooks/output/klausimai-pagal-nesutarima-Laisvės-partija.png)
 
-## Visi klausimai
+## Bendra vizualizacija visų atsakymų į klausimus
+
+![notebooks/output/visu-partiju-balsai.png](notebooks/output/visu-partiju-balsai.png)
+
+## Detali vizualizacija atsakymų į kiekvieną klausimą
 
 ![notebooks/output/klausimas-1.png](notebooks/output/klausimas-1.png)
 
