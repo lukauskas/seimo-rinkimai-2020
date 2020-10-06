@@ -8,7 +8,7 @@ Neapsisprendėliams, [manobalsas.lt](https://www.manobalsas.lt/index/index.php) 
 
 Duomenys priklauso manobalsas.lt. Jais nesidalijame čia.
 
-Analizė mano. Analizė subjektyvi. Analizės grafikai/tekstas: [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Analizė mano. Analizė subjektyvi. Analizės grafikai/tekstas: [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Duomenys
 
