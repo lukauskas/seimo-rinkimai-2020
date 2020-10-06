@@ -10,6 +10,8 @@ Duomenys priklauso manobalsas.lt. Jais nesidalijame čia.
 
 Analizė mano. Analizė subjektyvi. Analizės grafikai/tekstas: [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/). 
 
+Įspėjimas - grafikuose politikų pasiskirstymas atitinka politikus, kurie atsakė klausimus manobalsas.lt ir kurių duomenis manobalsas.lt publikavo. Tai nėra tobula reprezentacija visos partijos pažiūrų. Kai kuriais atvėjais grafikas ir partijos numonė gali išsiskirti.
+
 ## Duomenys
 
 Duomenys gali būti parsisiųsti naudojant `data/download.py` skiptą.
